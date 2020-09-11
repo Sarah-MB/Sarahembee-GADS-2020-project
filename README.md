@@ -1,7 +1,7 @@
 # Sarahembee-GADS-2020-project
 Practice Project for Google Cloud Platform 2020
 
-# Phase 1 
+- Phase 1 
 # 1
 ![image1](https://res.cloudinary.com/sarahembee/image/upload/v1599851061/ABD8C108-46BD-46A5-A6C7-D8F7B72B9690_rl8rhg.png) 
 
@@ -26,7 +26,7 @@ Practice Project for Google Cloud Platform 2020
 # 7 
 ![image7](https://res.cloudinary.com/sarahembee/image/upload/v1599851140/EB524391-A83F-4745-AFCE-4BF785DE5185_ozb7lz.png)
 
-# Phase 2 
+#^ Phase 2 
 # 8 
 ![image8](https://res.cloudinary.com/sarahembee/image/upload/v1599866549/4C420404-072E-41F2-951F-A39FF14D535C_mmat3k.png)
 
